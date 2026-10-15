@@ -1,0 +1,10 @@
+app:
+  name: Javier App Total
+  package: com.javier.bancatotal
+  version: 1.0.0
+  build_number: 1
+
+android:
+  permissions:
+    - INTERNET
+    - ACCESS_NETWORK_STATE
